@@ -4,7 +4,7 @@ A modern **Streamlit web app** that provides personalized, AI-powered career gui
 
 Powered by **Google Gemini** and a robust **skills/career dataset**, this tool generates tailored roadmaps, resource recommendations, and job market insights — all based on your profile and interests!  
 
----
+
 
 ## ✨ Features  
 - 🌐 **Personalized Suggestions**: Choose your domain, education status, and relevant interests.  
@@ -12,12 +12,12 @@ Powered by **Google Gemini** and a robust **skills/career dataset**, this tool g
 - 🧠 **AI-Powered Analysis**: Leverages Google Gemini for in-depth, creative career advice, visual roadmaps, and actionable alternatives.  
 - 🎨 **Engaging Presentation**: Clean UI with emojis, markdown formatting, and colors for an enjoyable experience.  
 
----
+
 
 ## 🚀 Getting Started  
 
 ### 1️⃣ Prerequisites  
-- Python **3.9 – 3.11**  
+- Python **3.12**  
 - Google Gemini API access  
 - Place your `Master Dataset.xlsx` in the project root directory  
 
